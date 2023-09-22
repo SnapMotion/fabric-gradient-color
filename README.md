@@ -3,7 +3,7 @@
 Fabric.js gradient and solid color preview. It uses CSS gradients and converts to fabric.js gradient object.
 
 See in action here:
-- [Vue Design Editor](https://vue-editor-base.up.railway.app/) -> Under development
+- [Vue Design Editor](https://vue-design-editor.up.railway.app/)
 - [React Design editor](https://app.scenify.io/) -> Under development
 
 
